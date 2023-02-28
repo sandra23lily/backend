@@ -20,7 +20,5 @@ fun main() {
     val posgress: IDBAdapter = PostgreSqlDBAdapter()
     println(posgress.getConnection().toString())
 
-
-
 }
 
