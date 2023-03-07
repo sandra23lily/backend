@@ -1,0 +1,2 @@
+serviceProductImplClass WSServiceStackImpl
+serviceProductImplClass abstractfactory.RestServiceImpl
