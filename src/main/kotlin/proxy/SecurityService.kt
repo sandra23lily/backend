@@ -11,3 +11,7 @@ class SecurityService {
         }
     }
 }
+//simular un servicio de seguridad y proporciona un método de
+//autorización donde el único usuario válido es oblancarte con el password 1234, el
+//servicio regresa true en caso de que la autorización se lleve a cabo con éxito y
+//false en caso contrario.

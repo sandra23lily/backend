@@ -7,3 +7,7 @@ class DefaultProcessEjecutor : IProcessEjecutor {
         println("procesos $idProcess terminado")
     }
 }
+//ejecutar los procesos, sin embargo,
+//controlaremos su creación por medio del Factory para asegurarnos de regresarle
+//un proxy en lugar de una instancia de esta clase. La clase hereda de
+//IProcessEjecutor.
