@@ -1,0 +1,41 @@
+<Project name="Department of 3 levels">
+    <Activity name="Architecture Supervision" price="160000.0">
+        <Responsible name="Oscar Blancarte" price="1500.0" />
+        <Activity name="First floor" price="150000.0">
+            <Responsible name="Juan Perez" price="1300.0" />
+            <Activity name="Obra negra" price="40000.0">
+                <Responsible name="Alejandro Lopez" price="300.0" />
+            </Activity>
+            <Activity name="Gray work" price="30000.0">
+                <Responsible name="Vladimir Torres" price="300.0" />
+            </Activity>
+            <Activity name="Finishes" price="70000.0">
+                <Responsible name="Sofia Galindo" price="300.0" />
+            </Activity>
+        </Activity>
+        <Activity name="Second floor" price="160000.0">
+            <Responsible name="Liliana Castro" price="1000.0" />
+            <Activity name="Gray work" price="50000.0">
+                <Responsible name="Laura Sanchez" price="1000.0" />
+            </Activity>
+            <Activity name="Gray work" price="40000.0">
+                <Responsible name="Alejandro Lopez" price="300.0" />
+            </Activity>
+            <Activity name="Finishes" price="80000.0">
+                <Responsible name="Sofia Galindo" price="300.0" />
+            </Activity>
+        </Activity>
+        <Activity name="Third floor" price="200000.0">
+            <Responsible name="Juan Perez" price="1300.0" />
+            <Activity name="Black work" price="50000.0">
+                <Responsible name="Laura Sanchez" price="1000.0" />
+            </Activity>
+            <Activity name="Gray work" price="40000.0">
+                <Responsible name="Vladimir Torres" price="300.0" />
+            </Activity>
+            <Activity name="Finishes" price="80000.0">
+                <Responsible name="Sofia Galindo" price="300.0" />
+            </Activity>
+        </Activity>
+    </Activity>
+</Project>
