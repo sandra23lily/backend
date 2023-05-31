@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="annotations-13.0-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/commonj.sdo-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/eclipselink-2.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/istack-commons-runtime-3.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jakarta.persistence-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jakarta.xml.bind-api-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jaxb-core-2.3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jaxb-impl-2.3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jaxb-runtime-2.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/kotlin-reflect-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/kotlin-stdlib-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/txw2-2.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/annotations-13.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/istack-commons-runtime-3.0.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jakarta.activation-1.2.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jakarta.xml.bind-api-2.3.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/jaxb-runtime-2.3.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/kotlin-reflect-1.8.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/kotlin-reflect-1.8.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/kotlin-stdlib-1.8.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/kotlin-stdlib-1.8.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/kotlin-stdlib-common-1.8.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/lib/txw2-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
